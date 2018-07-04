@@ -146,3 +146,8 @@ https://github.com/ReyKoxha/nodebb-webview
 Import your old forum data to nodebb | a one time use plugin
 https://github.com/akhoury/nodebb-plugin-import
 
+
+## Other
+nodebb-alpine
+Docker image for deploying NodeBB. Currently using it for https://forum.antergos.com
+https://github.com/Antergos/nodebb-alpine
