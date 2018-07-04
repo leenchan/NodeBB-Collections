@@ -34,9 +34,22 @@ https://github.com/cwis-public/nodebb-plugin-merge-subtopics
 A Q&A plugin for NodeBB Forums which allows users to post topics as questions and label it as solved.
 https://github.com/NodeBB/nodebb-plugin-question-and-answer
 
+### nodebb-plugin-dynamic-labels
+Add custom labels to topics based on the OP's date and/or edited date.Useful for adding a "New!" or "Updated" indicator to make topics stand out.
+https://github.com/psychobunny/nodebb-plugin-dynamic-labels
+
 ### nodebb-plugin-reply-to-see
 Reply a topic to see the content
 https://github.com/LYLLLRH/nodebb-plugin-reply-to-see
+
+### nodebb-plugin-recent-cards
+This is an addon for the Persona theme which adds a recent cards component to the header of the homepage. It's inspired by the previous default theme, Lavender, which used Modern UI styling for the category layout.
+https://github.com/NodeBB-Community/nodebb-plugin-recent-cards
+
+### nodebb-widget-rotating-topic
+Rotates through a random topic in a selected category (or categories) with a slider allowing the user to flick through topics.
+Requires nodebb-plugin-recent-cards to be installed (not necessarily activated).
+https://github.com/psychobunny/nodebb-widget-rotating-topic
 
 ### nodebb-widget-essentials
 Several basic widgets bundled together in one package including 'HTML', 'Markdown', 'Active Users', 'Moderators', 'Forum Stats', 'Recent Topics', 'Categories', 'Popular Tags' and 'Recent Posts' widgets.
@@ -49,6 +62,10 @@ https://github.com/myvr/nodebb-widget-search-bar
 ### nodebb-plugin-osm-map
 Add a OpenStreetMap map to localize users.
 https://github.com/RoPP/nodebb-plugin-osm-map
+
+### nodebb-plugin-calendar
+This plugin adds a site-wide calendar to NodeBB.
+https://github.com/pitaj/nodebb-plugin-calendar
 
 ### nodebb-plugin-ns-custom-fields
 Adds additional fields to the user's profile. Would you like to provide gender option for user profiles, or zodiac, or twitter handler, or facebook page, this plugin will help you.
@@ -145,6 +162,13 @@ https://github.com/ReyKoxha/nodebb-webview
 ### nodebb-plugin-import
 Import your old forum data to nodebb | a one time use plugin
 https://github.com/akhoury/nodebb-plugin-import
+
+
+
+## Themes
+nodebb-theme-lavender
+https://github.com/NodeBB/nodebb-theme-lavender
+
 
 
 ## Other
