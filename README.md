@@ -10,6 +10,14 @@ https://github.com/julianlam/nodebb-plugin-solr
 A plugin for NodeBB to take image uploads and store them on Chevereto, uses the filter:uploadImage hook in NodeBB.
 https://github.com/MoeNetwork/nodebb-plugin-chevereto
 
+### nodebb-plugin-imgur
+A plugin that uploads images to Imgur.
+https://github.com/barisusakli/nodebb-plugin-imgur
+
+### nodebb-plugin-qiniu
+A plugin that uploads images to qiniu.
+https://github.com/Jokcy/nodebb-plugin-qiniu
+
 ### nodebb-plugin-poll
 This NodeBB plugin will allow you to add polls to the first post of a topic with the following markup:
 https://github.com/Schamper/nodebb-plugin-poll
@@ -18,13 +26,29 @@ https://github.com/Schamper/nodebb-plugin-poll
 Additional metrics for User Profiles. It's like experience in video games. Plugin is good for gamification of your board.
 https://github.com/NicolasSiver/nodebb-plugin-ns-points
 
+### nodebb-plugin-merge-subtopics
+Merge topics from sub-categories into /category views.
+https://github.com/cwis-public/nodebb-plugin-merge-subtopics
+
 ### nodebb-plugin-question-and-answer
 A Q&A plugin for NodeBB Forums which allows users to post topics as questions and label it as solved.
 https://github.com/NodeBB/nodebb-plugin-question-and-answer
 
+### nodebb-plugin-reply-to-see
+Reply a topic to see the content
+https://github.com/LYLLLRH/nodebb-plugin-reply-to-see
+
 ### nodebb-widget-essentials
 Several basic widgets bundled together in one package including 'HTML', 'Markdown', 'Active Users', 'Moderators', 'Forum Stats', 'Recent Topics', 'Categories', 'Popular Tags' and 'Recent Posts' widgets.
 https://github.com/NodeBB/nodebb-widget-essentials
+
+### nodebb-widget-search-bar
+A search bar widget with suggested results and keyboard controlls.
+https://github.com/myvr/nodebb-widget-search-bar
+
+### nodebb-plugin-osm-map
+Add a OpenStreetMap map to localize users.
+https://github.com/RoPP/nodebb-plugin-osm-map
 
 ### nodebb-plugin-ns-custom-fields
 Adds additional fields to the user's profile. Would you like to provide gender option for user profiles, or zodiac, or twitter handler, or facebook page, this plugin will help you.
@@ -33,6 +57,10 @@ https://github.com/NicolasSiver/nodebb-plugin-ns-custom-fields
 ### nodebb-plugin-user-invitations
 This NodeBB plugin allows current users to send email invitations to potential new users.
 https://github.com/NodeBB-Community/nodebb-plugin-user-invitations
+
+### nodebb-plugin-contact-page
+A nodeBB plugin to a contact page
+https://github.com/MinecraftForgeFrance/nodebb-plugin-contact-page
 
 ### nodebb-plugin-composer-redactor
 This plugin activates the WYSIWYG Redactor composer for NodeBB.
@@ -62,6 +90,10 @@ https://github.com/NodeBB/nodebb-plugin-write-api
 Embed media and rich content in posts: youtube, vimeo, twitch etc. All embeds are based on the rules. You are encouraged to build your own rules to embed everything what is embeddable.
 https://github.com/NicolasSiver/nodebb-plugin-ns-embed
 
+### nodebb-plugin-imagemagick
+This plugin replaces image parsing functionality built into NodeBB with ImageMagick, running on the host machine.
+https://github.com/NodeBB/nodebb-plugin-imagemagick
+
 ### nodebb-plugin-sso-facebook
 NodeBB Plugin that allows users to login/register via their Facebook account.
 https://github.com/julianlam/nodebb-plugin-sso-facebook
@@ -82,13 +114,25 @@ https://github.com/purewave1989/nodebb-plugin-sso-github
 NodeBB Plugin that allows users to login/register via their Wechat account.
 https://github.com/zheng1/nodebb-plugin-sso-wechat
 
+### nodebb-plugin-sso-wechat-web
+NodeBB Plugin that allows users to login/register via Wechat Web.
+https://github.com/a632079/nodebb-plugin-sso-wechat-web
+
 ### nodebb-plugin-sso-qq
 NodeBB Plugin that allows users to login/register via their QQ account.
 https://github.com/pmmsc/nodebb-plugin-sso-qq
 
+### nodebb-plugin-sso-auth-qq
+nodebb sso auth qq
+https://github.com/gjgj821/nodebb-plugin-sso-auth-qq
+
 ### nodebb-plugin-sso-weibo
 NodeBB Plugin that allows users to login/register via their Weibo account.
 https://github.com/mani95lisa/nodebb-plugin-sso-weibo
+
+### nodebb-plugin-session-sharing
+In a nutshell, this plugin allows you to share sessions between your application and NodeBB. You'll need to set a special cookie with a common domain, containing a JSON Web Token with user data. If sufficient, this plugin will handle the rest (user registration/login).
+https://github.com/julianlam/nodebb-plugin-session-sharing
 
 ### nodebb-plugin-google-analytics
 This plugin allows you to track visitors to your NodeBB, including getting detailed view rates per topic/category.
