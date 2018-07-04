@@ -42,6 +42,10 @@ https://github.com/psychobunny/nodebb-plugin-dynamic-labels
 Reply a topic to see the content
 https://github.com/LYLLLRH/nodebb-plugin-reply-to-see
 
+### nodebb-plugin-share-post-icons
+Displays social sharing icons beneath every post in a topic for FB, Twitter, G+, and Linkedin.
+https://github.com/psychobunny/nodebb-plugin-share-post-icons
+
 ### nodebb-plugin-recent-cards
 This is an addon for the Persona theme which adds a recent cards component to the header of the homepage. It's inspired by the previous default theme, Lavender, which used Modern UI styling for the category layout.
 https://github.com/NodeBB-Community/nodebb-plugin-recent-cards
